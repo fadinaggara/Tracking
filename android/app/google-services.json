@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71101821653",
+    "project_id": "hedil-7a555",
+    "storage_bucket": "hedil-7a555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71101821653:android:6b0048f4c0e4d69a50285c",
+        "android_client_info": {
+          "package_name": "com.example.hadil_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALL5wq4Tv69TOk8K3gdLkeOEquULrdoQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
