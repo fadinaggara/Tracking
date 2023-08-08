@@ -1,6 +1,6 @@
 # hadil_project
 
-A new Flutter project.
+A new Flutter project that I'm doing It for a client that she wants to do a connected object to this app that she can track the user and Know the the situation of him, even the user can call emergency .
 
 ## Getting Started
 
